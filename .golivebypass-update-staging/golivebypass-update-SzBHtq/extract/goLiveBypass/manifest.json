@@ -1,0 +1,16 @@
+{
+  "name": "GoLiveBypass",
+  "description": "Devolve o Go Live e a câmera para contas brasileiras e oferece uma VPN WireGuard isolada para este Discord",
+  "authors": [
+    {
+      "name": "bezumiya",
+      "id": "1366453661970071633"
+    }
+  ],
+  "version": "2.0.5",
+  "updater": {
+    "type": "github",
+    "id": "pdl-clay/GoLiveBypass",
+    "assetName": "goLiveBypass-vencord.zip"
+  }
+}
